@@ -1,2 +1,1 @@
-# user-auth-Xpert
-make this system as asseeement
+Setup and run instructions for both the client and server.
